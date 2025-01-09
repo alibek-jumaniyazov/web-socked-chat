@@ -8,9 +8,18 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "express": "^4.21.2",
     "socket.io": "^4.8.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alibek-jumaniyazov/web-socked-chat.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alibek-jumaniyazov/web-socked-chat/issues"
+  },
+  "homepage": "https://github.com/alibek-jumaniyazov/web-socked-chat#readme",
+  "description": ""
 }
